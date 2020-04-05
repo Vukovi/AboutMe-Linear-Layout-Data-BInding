@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Vuk Knezevic</string>
+    <string name="zuta_zvezda">Zuta zvezda</string>
+    <string name="biografija">I am iOS developer that was engaged by several
+        \ncompanies and worked on dozens of projects. I was involved in making
+        \nmobile bank software for couple of years and during that period mobile
+        \napps are made for Raiffeisen, Societe Generale, Bank of Malta, etc.
+        \nCustom iOS mBanking SDK have come as crown of those several years in
+        \nmBanking. I have done my part in telecommunication software working for
+        \nMera Software Services while upgrading old and making new iOS app for
+        \nAvaya Inc. I was outsourced for some European and USA software companies
+        \nwith dozen of different projects where I would single out the projects
+        \nfor maintenance related use. Currently i am working in Progiton GmbH
+        \non Volkswagen project Connect-Fleet.</string>
+    <string name="moj_placeholder">Kako se zoves....</string>
+    <string name="doneBtn">Done</string>
+</resources>
